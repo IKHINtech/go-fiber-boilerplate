@@ -8,6 +8,7 @@ Go Fiber Boilerplate is a starter template for building simple REST APIs using G
 - **Fiber**: An Express-inspired web framework for Golang.
 - **GORM**: The ORM library for Golang.
 - **PostgreSQL**: The relational database used for storing data.
+- **Swagger**: API documentation generator for generating interactive API documentation.
 
 ## Features
 
